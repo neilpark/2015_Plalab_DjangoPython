@@ -11,6 +11,11 @@
  * [http://tutorial.djangogirls.org](http://tutorial.djangogirls.org/en/index.html) (en) : 가벼운 내용임.
  * [http://www.marinamele.com](http://www.marinamele.com/taskbuster-django-tutorial) (en) : python3 + django 1.8
 
+# Pycon
+ * [2014 Pycon 발표자료](http://www.pycon.kr/2014/programs/list/)
+ 
+# Tip
+ * [Django 개발 시 실수한 부분](http://raccoonyy.github.io/django-development-mistakes-in-2014-translatate/)
 
 # 학습계획
  * 1주차 : OpenStack 소개, 계정 신청 방법 및 기본적인 설정(django framework을 올리는 것까지의 과정)과 특징

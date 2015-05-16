@@ -5,6 +5,12 @@
 * [사내 Openstack 신청](http://wiki.skplanet.com/pages/viewpage.action?pageId=55473573) : server
 * 만들고 싶은 것들을 아래 써주세요. 팀도 되고, 혼자서도 됩니다. 그리고 플라랩 기간동안 완성되지 않아도 됩니다.(다음 플라랩으로 그대로 이어갑니다. ^^)
  * GCM Push Server 만들기 : 박근일
+ 
+ 
+# Tutorial
+ * [http://tutorial.djangogirls.org](http://tutorial.djangogirls.org/en/index.html) (en) : 가벼운 내용임.
+ * [http://www.marinamele.com](http://www.marinamele.com/taskbuster-django-tutorial) (en) : python3 + django 1.8
+
 
 # 학습계획
  * 1주차 : OpenStack 소개, 계정 신청 방법 및 기본적인 설정(django framework을 올리는 것까지의 과정)과 특징

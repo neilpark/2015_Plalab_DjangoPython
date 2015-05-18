@@ -18,6 +18,7 @@
 # Tip and Question
 ## Tip
  * [Django 개발 시 실수한 부분](http://raccoonyy.github.io/django-development-mistakes-in-2014-translatate/)
+ 
 ## Question
  * Token 생성 및 관리는?
 

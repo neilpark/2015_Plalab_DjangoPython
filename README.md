@@ -8,9 +8,10 @@
  * GCM Push Server 만들기 : 박근일
 
 # Meeting
+* [2015. 05. 28 11시 40분 804](https://github.com/neilpark/2015_Plalab_DjangoPython/blob/master/20150528.md)
 
 # 예정
-* 2015. 05. 28 11시 40분 804
+* 2015. 06. 12 11시 40분 
 
 
 # 학습계획

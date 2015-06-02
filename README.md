@@ -11,7 +11,7 @@
 * [2015. 05. 28 11시 40분 804](https://github.com/neilpark/2015_Plalab_DjangoPython/blob/master/20150528.md)
 
 # 예정
-* 2015. 06. 12 11시 40분 
+* 2015. 06. 12 11시 30분 : 903BL 
 
 
 # 학습계획

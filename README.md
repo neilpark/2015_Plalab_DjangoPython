@@ -8,6 +8,7 @@
 > 만들고 싶은 것들을 아래 써주세요. 팀도 되고, 혼자서도 됩니다. 그리고 플라랩 기간동안 완성되지 않아도 됩니다.(다음 플라랩으로 그대로 이어갑니다. ^^)
 
 * GCM Push Server 만들기 : 박근일
+* Reinforcement Learning를 이용한 무엇? : 이현록
 
 # Meeting
 * [2015. 05. 28 11시 40분 804](https://github.com/neilpark/2015_Plalab_DjangoPython/blob/master/20150528.md)

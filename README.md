@@ -9,6 +9,7 @@
 
 * GCM Push Server 만들기 : 박근일
 * Reinforcement Learning를 이용한 무엇? 아몰랑~ : 이현록
+* 상품조회서비스 만들기 : 김대황
 
 # Meeting
 * [2015. 05. 28 11시 40분 804](https://github.com/neilpark/2015_Plalab_DjangoPython/blob/master/20150528.md)

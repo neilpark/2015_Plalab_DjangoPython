@@ -22,5 +22,7 @@ BUG_REPORT_URL="http://bugs.launchpad.net/ubuntu/"
 
 ```
 server:/etc# service apache2 start
- * Starting web server apache2                                                                                             *
+ * Starting web server apache2
+ *
+server:/etc# 
 ```

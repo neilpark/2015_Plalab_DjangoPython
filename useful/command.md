@@ -1,5 +1,5 @@
 # Ubuntu
-## 배포판 확인 방법
+### 배포판 확인 방법
 > /etc/os-release 에 기록 되어 있음.
 ```
 server:/etc$ cat os-release

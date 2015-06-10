@@ -1,3 +1,4 @@
+CentOS와 Ubuntu에서 apache나 mysql을 실행시키는 명령어가 달라 작성하게 되었음.
 # Ubuntu
 #### 배포판 확인 방법
 > /etc/os-release 에 기록 되어 있음.
@@ -26,3 +27,10 @@ server:/etc# service apache2 start
  *
 server:/etc# 
 ```
+
+#### MariaDB & MySQL
+> 동일한 명령어를 사용.
+
+* 실행 : # service mysql start
+* 종료 : # service mysql stop
+* 로그인 : # mysql -u 아이디 -p

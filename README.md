@@ -4,14 +4,11 @@
  * 보조 교재 : http://twoscoopspress.org/products/two-scoops-of-django-1-8 (pdf)
 * [사내 Openstack 신청](http://wiki.skplanet.com/pages/viewpage.action?pageId=55473573) : server
 
-## 만들고 싶은 것
-> 만들고 싶은 것들을 아래 써주세요. 팀도 되고, 혼자서도 됩니다. 그리고 플라랩 기간동안 완성되지 않아도 됩니다.(다음 플라랩으로 그대로 이어갑니다. ^^)
-
-* GCM Push Server 만들기 : 박근일
-* Reinforcement Learning를 이용한 무엇? 아몰랑~ : 이현록
-* 상품조회서비스 만들기 : 김대황
-* 네모네모로직 게임 서버 만들기 : 이근섭
-* 홍창우 : 쉐이킷알람 대쉬보드
+## 다음 이야기
+* 필요 라이브러리
+* UI가 필요하다면 어떤 걸 활용해서
+* 웹서버 연동 삽질기 공유하기
+* virtualenv
 
 # Meeting
 * [2015. 05. 28 11시 40분 804](https://github.com/neilpark/2015_Plalab_DjangoPython/blob/master/20150528.md)

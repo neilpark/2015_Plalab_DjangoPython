@@ -9,6 +9,7 @@
 # Tip and Question
 ## Tip
  * [Django 개발 시 실수한 부분](http://raccoonyy.github.io/django-development-mistakes-in-2014-translatate/)
+ * [Django, 저는 이렇게 씁니다](http://www.slideshare.net/perhapsspy/django-42665652)
  
 ## Question
  * Token 생성 및 관리는?

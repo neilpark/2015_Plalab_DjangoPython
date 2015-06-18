@@ -5,10 +5,9 @@
 * [사내 Openstack 신청](http://wiki.skplanet.com/pages/viewpage.action?pageId=55473573) : server
 
 ## 다음 이야기
-* 필요 라이브러리
-* UI가 필요하다면 어떤 걸 활용해서
 * 웹서버 연동 삽질기 공유하기
-* virtualenv
+* 필요 라이브러리 및 자동 설치
+* UI가 필요하다면 어떤 걸 활용해서
 
 # Meeting
 * [2015. 05. 28 11시 40분 804](https://github.com/neilpark/2015_Plalab_DjangoPython/blob/master/20150528.md)

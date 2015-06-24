@@ -6,3 +6,6 @@ python manage.py syncdb --noinput
 python manage.py migrate
 python manage.py createsuperuser
 ```
+
+## virtualenv 주의점
+* PATH 관련 : 특히 DB 관련 path 주의할 것.

@@ -4,17 +4,13 @@
  * 보조 교재 : http://twoscoopspress.org/products/two-scoops-of-django-1-8 (pdf)
 * [사내 Openstack 신청](http://wiki.skplanet.com/pages/viewpage.action?pageId=55473573) : server
 
-## 다음 이야기
-* 웹서버 연동 삽질기 공유하기
-* 필요 라이브러리 및 자동 설치
-* UI가 필요하다면 어떤 걸 활용해서
-
 # Meeting
 * [2015. 05. 28 11시 40분 804](https://github.com/neilpark/2015_Plalab_DjangoPython/blob/master/20150528.md)
 * [2015. 06. 11 11시 30분 803BL](https://github.com/neilpark/2015_Plalab_DjangoPython/blob/master/20150611.md)
+* [2015. 06. 18 12시 803BL](https://github.com/neilpark/2015_Plalab_DjangoPython/blob/master/20150618.md)
 
 # 예정
-* 2015. 06. 18 12시 00분 : 803BL
+
 
 # 학습계획
  * 1주차 : OpenStack 소개, 계정 신청 방법 및 기본적인 설정(django framework을 올리는 것까지의 과정)과 특징

@@ -1,0 +1,10 @@
+# rest-framework : login
+* urls.py
+```python
+from rest_framework.authtoken import views
+urlpatterns = patterns('',
+    ...
+    url(r'^api-token-auth/', views.obtain_auth_token),
+    ...
+)
+```

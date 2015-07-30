@@ -9,6 +9,7 @@
 * [2015. 06. 11 11시 30분 803BL](https://github.com/neilpark/2015_Plalab_DjangoPython/blob/master/20150611.md)
 * [2015. 06. 18 12시 803BL](https://github.com/neilpark/2015_Plalab_DjangoPython/blob/master/20150618.md)
 * [2015. 07. 08 12시 803BL](https://github.com/neilpark/2015_Plalab_DjangoPython/blob/master/20150708.md)
+* [2015. 07. 30 12시 903BL](https://github.com/neilpark/2015_Plalab_DjangoPython/blob/master/20150730.md)
 
 # 예정
 

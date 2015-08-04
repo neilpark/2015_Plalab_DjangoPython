@@ -12,7 +12,7 @@
 * [2015. 07. 30 12시 903BL](https://github.com/neilpark/2015_Plalab_DjangoPython/blob/master/20150730.md)
 
 # 예정
-
+* 2015. 08. 06 12시 903BL
 
 # 학습계획
  * 1주차 : OpenStack 소개, 계정 신청 방법 및 기본적인 설정(django framework을 올리는 것까지의 과정)과 특징
